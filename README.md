@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-## <p align="center"> About Google OT </p>
+## <p align="center"> About GoogleOT </p>
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
 
@@ -20,6 +20,24 @@ The idea behind the program is that you can use google programs on the Unix Term
 ------------------------------------------------------------------------
 
 ## <p align="center"> Requirements </p>
+
+<p align="center">
+Operating System:
+* Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
+
+Packages:
+* [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=downloads) (All are installed together with aircrack-ng)
+* - [airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng)
+* - [airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng)
+* - [aireplay-ng](https://www.aircrack-ng.org/doku.php?id=aireplay-ng)
+* - [besside-ng](https://www.aircrack-ng.org/doku.php?id=besside-ng)
+
+Python Library (Pip3):
+* python3
+* pip3
+* [os](https://docs.python.org/3/library/os.html)
+* [time](https://docs.python.org/3/library/time.html)
+</p>
 
 ------------------------------------------------------------------------
 
