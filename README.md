@@ -21,23 +21,22 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ## <p align="center"> Requirements </p>
 
-<p align="center">
 Operating System:
-* Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
+* ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
+* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux (Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/)) ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
 
 Packages:
-* [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=downloads) (All are installed together with aircrack-ng)
-* - [airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng)
-* - [airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng)
-* - [aireplay-ng](https://www.aircrack-ng.org/doku.php?id=aireplay-ng)
-* - [besside-ng](https://www.aircrack-ng.org/doku.php?id=besside-ng)
-
-Python Library (Pip3):
+* [googler](https://www.aircrack-ng.org/doku.php?id=downloads)
 * python3
 * pip3
+
+Python Library (Pip3):
 * [os](https://docs.python.org/3/library/os.html)
 * [time](https://docs.python.org/3/library/time.html)
-</p>
+* [smtplib](https://docs.python.org/3/library/smtplib.html)
+* [stdiomask](https://pypi.org/project/stdiomask/)
+* [imaplib](https://docs.python.org/3/library/imaplib.html)
+* [getpass](https://docs.python.org/3.1/library/getpass.html)
 
 ------------------------------------------------------------------------
 
