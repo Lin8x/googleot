@@ -42,11 +42,32 @@ Python Library (Pip3):
 
 ## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") &nbsp; How to Install &nbsp; ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
 
+1. Download manually from the Github page.
+###### Or
+2. Type in your terminal:
+`git clone https://www.github.com/lin8x/googleot`
+
 ------------------------------------------------------------------------
 
 ## <p align="center"> :fire: &nbsp; How to Run &nbsp; :fire: </p>
 
+Open your terminal and type:
+`chmod +x *`
+and
+`sudo python3 setup.py`
+<br><br>
+
+**Once Finished Setup** <br>
+1. Type and enter `googleot` to run the tool.
+###### or
+2. Open the application in your application menu
+<br><br>
+
 #### <p align="center"> Troubleshooting </p>
+
+If typing `googleot` does not work, then either you did not run the `setup.py` file or your linux distro doesn't support the file setup it uses.
+
+Most files go to `/usr/share/googleot-file`, `googleot.desktop` goes to `/usr/share/applications/`, and `googleot` goes to `/usr/bin`.
 
 ------------------------------------------------------------------------
 
