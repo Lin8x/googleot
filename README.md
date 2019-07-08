@@ -19,7 +19,7 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ------------------------------------------------------------------------
 
-## <p align="center"> Requirements </p>
+## <p align="center"> :wrench: Requirements :wrench: </p>
 
 Operating System:
 * ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
@@ -40,17 +40,17 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## <p align="center"> How to Install </p>
+## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") How to Install ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
 
 ------------------------------------------------------------------------
 
-## <p align="center"> How to Run </p>
+## <p align="center"> :fire: How to Run :fire: </p>
 
 #### <p align="center"> Troubleshooting </p>
 
 ------------------------------------------------------------------------
 
-## <p align="center"> Screenshots </p>
+## <p align="center"> :camera: Screenshots :camera: </p>
 
 ![google section](http://i63.tinypic.com/b5fno1.png)
 ![google section](http://i68.tinypic.com/jhshe8.png)
