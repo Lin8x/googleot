@@ -23,7 +23,7 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 Operating System:
 * ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
-* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux (Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/)) ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
+* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
 
 Packages:
 * [googler](https://www.aircrack-ng.org/doku.php?id=downloads)
