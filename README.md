@@ -18,19 +18,31 @@ Whatever your reason, GoogleOT has you covered!
 
 The idea behind the program is that you can use google programs on the Unix Terminal.
 
+------------------------------------------------------------------------
+
 ## Requirements
+
+------------------------------------------------------------------------
 
 ## How to Install
 
+------------------------------------------------------------------------
+
 ## How to Run
 
+------------------------------------------------------------------------
+
 #### Troubleshooting
+
+------------------------------------------------------------------------
 
 ## Screenshots
 
 ![google section](http://i63.tinypic.com/b5fno1.png)
 ![google section](http://i68.tinypic.com/jhshe8.png)
 ![gmail section](http://i68.tinypic.com/10h0fn9.png)
+
+------------------------------------------------------------------------
 
 ## Contibuting
 
