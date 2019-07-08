@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-![googleot](https://cdn1.imggmi.com/uploads/2019/7/9/0e32c770a8e0b28d1144c219b94b5349-full.png)
+<a href="https://imggmi.com" target="_blank"><img src="https://cdn1.imggmi.com/uploads/2019/7/9/0e32c770a8e0b28d1144c219b94b5349-full.png" border="0"/></a>
 
 ------------------------------------------------------------------------
 
