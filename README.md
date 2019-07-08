@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-<a href="http://tinypic.com?ref=35nbqzl" target="_blank"><img src="http://i63.tinypic.com/35nbqzl.png" border="0" alt="Image and video hosting by TinyPic" width="100%" height="50"></a>
+<a href="http://tinypic.com?ref=35nbqzl" target="_blank"><img src="http://i63.tinypic.com/35nbqzl.png" border="0" alt="Image and video hosting by TinyPic" width="100%" height="200"></a>
 
 ------------------------------------------------------------------------
 
