@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-## About Google OT
+## <p align="center"> About Google OT </p>
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
 
@@ -19,23 +19,23 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ------------------------------------------------------------------------
 
-## Requirements
+## <p align="center"> Requirements </p>
 
 ------------------------------------------------------------------------
 
-## How to Install
+## <p align="center"> How to Install </p>
 
 ------------------------------------------------------------------------
 
-## How to Run
+## <p align="center"> How to Run </p>
 
 ------------------------------------------------------------------------
 
-#### Troubleshooting
+#### <p align="center"> Troubleshooting </p>
 
 ------------------------------------------------------------------------
 
-## Screenshots
+## <p align="center"> Screenshots </p>
 
 ![google section](http://i63.tinypic.com/b5fno1.png)
 ![google section](http://i68.tinypic.com/jhshe8.png)
@@ -43,6 +43,6 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ------------------------------------------------------------------------
 
-## Contibuting
+## <p align="center"> Contibuting </p>
 
 ------------------------------------------------------------------------
