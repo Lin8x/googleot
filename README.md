@@ -29,8 +29,6 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ## <p align="center"> How to Run </p>
 
-------------------------------------------------------------------------
-
 #### <p align="center"> Troubleshooting </p>
 
 ------------------------------------------------------------------------
