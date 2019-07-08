@@ -19,7 +19,7 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ------------------------------------------------------------------------
 
-## <p align="center"> ![checks](https://i.ibb.co/wh2jHjV/60889-200.png) &nbsp; Requirements &nbsp; ![checks](https://i.ibb.co/wh2jHjV/60889-200.png) </p>
+## <p align="center"> ![checks](https://i.ibb.co/GPtkjY1/60889-200-29x29.png) &nbsp; Requirements &nbsp; ![checks](https://i.ibb.co/GPtkjY1/60889-200-29x29.png) </p>
 
 Operating System:
 * ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
