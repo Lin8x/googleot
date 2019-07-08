@@ -19,7 +19,7 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 ------------------------------------------------------------------------
 
-## <p align="center"> :wrench: Requirements :wrench: </p>
+## <p align="center"> :wrench: &nbsp; Requirements &nbsp; :wrench: </p>
 
 Operating System:
 * ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
@@ -40,17 +40,17 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") How to Install ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
+## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") &nbsp; How to Install &nbsp; ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
 
 ------------------------------------------------------------------------
 
-## <p align="center"> :fire: How to Run :fire: </p>
+## <p align="center"> :fire: &nbsp; How to Run &nbsp; :fire: </p>
 
 #### <p align="center"> Troubleshooting </p>
 
 ------------------------------------------------------------------------
 
-## <p align="center"> :camera: Screenshots :camera: </p>
+## <p align="center"> :camera: &nbsp; Screenshots &nbsp; :camera: </p>
 
 ![google section](http://i63.tinypic.com/b5fno1.png)
 ![google section](http://i68.tinypic.com/jhshe8.png)
@@ -58,6 +58,6 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## <p align="center"> Contibuting </p>
+## <p align="center"> ![handshake](https://i.ibb.co/r25C8p7/handshake-vector-20x29.png) &nbsp; Contibuting &nbsp; ![handshake](https://i.ibb.co/r25C8p7/handshake-vector-20x29.png) </p>
 
 ------------------------------------------------------------------------
