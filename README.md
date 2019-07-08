@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-<a href="https://imggmi.com" target="_blank"><img src="https://cdn1.imggmi.com/uploads/2019/7/9/0e32c770a8e0b28d1144c219b94b5349-full.png" border="0"/></a>
+# <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="20" height="29"></a> GoogleOT <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="20" height="29"></a>
 
 ------------------------------------------------------------------------
 
