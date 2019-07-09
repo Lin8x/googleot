@@ -2,7 +2,6 @@
 
 import core
 import os
-import getpass
 import main
 
 global lines
@@ -45,7 +44,7 @@ def startup():
             try:
                   search = answer[1]
                   os.system("googler -n " +  lines + " google.com " + search + "\n")
-                  getpass.getpass("Please press {ENTER} to continue... ")
+                  input("Please press {ENTER} to continue... " + core.invis)
                   startup()
             except:
                   print("\nError: Could not search. \nMake sure you have Googler installed and type 'search <word>'!\n")
