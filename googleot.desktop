@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GoogleOT
+Comment=Activate GoogleOT
+Exec=/usr/bin/googleot
+Icon=/usr/share/googleot-file/googleot.png
+Terminal=true
+Type=Application
