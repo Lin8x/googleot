@@ -3,11 +3,11 @@
 import os
 import platform
 
-os.system("pip3 install platform")
-os.system("pip3 install smtplib")
-os.system("pip3 install stdiomask")
-os.system("pip3 install imaplib")
-os.system("pip3 install getpass")
+os.system("sudo pip3 install platform")
+os.system("sudo pip3 install smtplib")
+os.system("sudo pip3 install stdiomask")
+os.system("sudo pip3 install imaplib")
+os.system("sudo pip3 install getpass")
 
 p = platform.system()
 if "Linux" == p:
