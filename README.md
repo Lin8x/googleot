@@ -26,7 +26,7 @@ Operating System:
 * ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
 
 Packages:
-* [googler](https://www.aircrack-ng.org/doku.php?id=downloads)
+* [googler](https://github.com/jarun/googler)
 * python3
 * pip3
 
