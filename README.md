@@ -59,9 +59,7 @@ and
 
 #### <p align="center"> Once Finished Setup </p> <br>
 
-1. Type and enter `googleot` to run the tool.
-###### or
-2. Open the application in your application menu
+**Type and enter `googleot` to run the tool** or **Open the application in your application menu**.
 <br><br>
 
 #### <p align="center"> Troubleshooting </p>
