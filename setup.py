@@ -21,3 +21,5 @@ if "Linux" == p:
 else:
    os.system("brew install googler")
    print("Please do 'sudo python3 googleot-files/runme.py' to run the program!")
+
+   
