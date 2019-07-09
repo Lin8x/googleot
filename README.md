@@ -33,7 +33,7 @@ Packages:
 Python Library (Pip3):
 * [os](https://docs.python.org/3/library/os.html)
 * [time](https://docs.python.org/3/library/time.html)
-* [platforms](https://docs.python.org/3/library/platform.html)
+* [platform](https://docs.python.org/3/library/platform.html)
 * [smtplib](https://docs.python.org/3/library/smtplib.html)
 * [stdiomask](https://pypi.org/project/stdiomask/)
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
