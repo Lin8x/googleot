@@ -12,7 +12,7 @@
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
 
-<img alt="main section" src="http://i63.tinypic.com/b5fno1.png" width="62" height="62"> <img alt="google section" src="http://i68.tinypic.com/jhshe8.png" width="62" height="62"> <img alt="gmail section" src="http://i68.tinypic.com/10h0fn9.png" width="62" height="62">
+<img alt="main section" src="http://i63.tinypic.com/b5fno1.png" width="92" height="62"> <img alt="google section" src="http://i68.tinypic.com/jhshe8.png" width="92" height="62"> <img alt="gmail section" src="http://i68.tinypic.com/10h0fn9.png" width="92" height="62">
 
 Working on a server with no GUI? Don't want to use any browsers? Or you just enjoy the terminal too much? <br>
 Whatever your reason, GoogleOT has you covered!
