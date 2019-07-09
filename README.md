@@ -36,9 +36,7 @@ Python Library (Pip3):
 * [time](https://docs.python.org/3/library/time.html)
 * [platform](https://docs.python.org/3/library/platform.html)
 * [smtplib](https://docs.python.org/3/library/smtplib.html)
-* [stdiomask](https://pypi.org/project/stdiomask/)
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
-* [getpass](https://docs.python.org/3.1/library/getpass.html)
 
 ------------------------------------------------------------------------
 
