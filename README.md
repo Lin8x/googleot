@@ -93,6 +93,6 @@ See also the list of contributors who participated in this project.
 This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
 
 Main Developer - [lin8x](https://www.github.com/lin8x)<br>
-Contibuting - [asian-code(https://www.github.com/asian-code)
+Contibuting - [asian-code](https://www.github.com/asian-code)
 
 ------------------------------------------------------------------------
