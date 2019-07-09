@@ -11,8 +11,8 @@ if "Linux" == p:
    print("[+] removed /usr/bin/googleot")
    os.system("sudo rm /usr/share/applications/googleot.desktop")
    print("[+] removed /usr/share/applications/googleot.desktop")
-   print("Uninstalled Googleot. Come back again! :)")
+   print("[-] Uninstalled Googleot. Come back again! :)")
 else:
-   print("Just delete the file. :/")
+   print("[-] Just delete the file. :/")
 
    
