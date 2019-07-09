@@ -57,7 +57,7 @@ and
 `sudo python3 setup.py`
 <br><br>
 
-**Once Finished Setup** <br>
+<p align="center"> **Once Finished Setup** </p> <br>
 1. Type and enter `googleot` to run the tool.
 ###### or
 2. Open the application in your application menu
