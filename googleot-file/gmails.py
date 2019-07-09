@@ -80,11 +80,11 @@ def login():
   try:
     gmail_sender = input("Please put your Gmail Username: ")
     gmail_sender = str(gmail_sender)
-    gmail_passwd = input(core.invis + "Please enter your password: ")
+    gmail_passwd = input("Please enter your password: " + core.invis)
     gmail_passwd = str(gmail_passwd)
     if gmail_sender == "" or gmail_passwd == "":
       print(core.r + "\nSorry! You used an unknown character. Please type in your credentials correctly!")
-      input(core.invis + "Please press {ENTER} to continue... ")
+      input("Please press {ENTER} to continue... " + core.invis)
       print(core.r + "")
       startup()
     authenticate(gmail_sender, gmail_passwd)
