@@ -51,15 +51,17 @@ Python Library (Pip3):
 
 ## <p align="center"> :fire: &nbsp; How to Run &nbsp; :fire: </p>
 
+<p align="center">
 Open your terminal and type:
 `chmod +x *`
 and
 `sudo python3 setup.py`
+</p>
 <br><br>
 
 #### <p align="center"> Once Finished Setup </p> <br>
 
-**Type and enter `googleot` to run the tool** or **Open the application in your application menu**.
+Type and enter `googleot` to run the tool **or** Open the application in your application menu.
 <br><br>
 
 #### <p align="center"> Troubleshooting </p>
