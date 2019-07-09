@@ -3,6 +3,7 @@
 import os
 import platform
 
+os.system("sudo -H pip3 install --upgrade pip")
 os.system("pip3 install smtplib")
 os.system("pip3 install stdiomask")
 os.system("pip3 install imaplib")
