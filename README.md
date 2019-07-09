@@ -26,6 +26,7 @@ Operating System:
 * ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
 
 Packages:
+* *For Mac, It Requires [Brew](https://brew.sh/)*
 * [googler](https://www.aircrack-ng.org/doku.php?id=downloads)
 * python3
 * pip3
