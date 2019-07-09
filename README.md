@@ -12,7 +12,7 @@
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
 
-Working on a server with no GUI? Maybe don't want to use any browsers? Or you just enjoy the terminal too much? <br>
+Working on a server with no GUI? Don't want to use any browsers? Or you just enjoy the terminal too much? <br>
 Whatever your reason, GoogleOT has you covered!
 
 The idea behind the program is that you can use google programs on the Unix Terminal.
