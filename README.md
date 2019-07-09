@@ -49,7 +49,7 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## <p align="center"> :fire: &nbsp; How to Run &nbsp; :fire: </p>
+## <p align="center"> <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> &nbsp; How to Run &nbsp; <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> </p>
 
 Open your terminal and type:
 `chmod +x *`
@@ -70,7 +70,7 @@ Most files go to `/usr/share/googleot-file`, `googleot.desktop` goes to `/usr/sh
 
 ------------------------------------------------------------------------
 
-## <p align="center"> :camera: &nbsp; Screenshots &nbsp; :camera: </p>
+## <p align="center"> <p align="center"> <img src="https://rentalcrates.com/wp-content/uploads/2017/08/pictures-icon-22-300x300.gif" alt="googleot" width="20" height="20"> &nbsp; Screenshots &nbsp; <p align="center"> <img src="https://rentalcrates.com/wp-content/uploads/2017/08/pictures-icon-22-300x300.gif" alt="googleot" width="20" height="20"> </p>
 
 ![google section](http://i63.tinypic.com/b5fno1.png)
 ![google section](http://i68.tinypic.com/jhshe8.png)
