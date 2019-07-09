@@ -22,11 +22,10 @@ The idea behind the program is that you can use google programs on the Unix Term
 ## <p align="center"> <img src="https://i.ibb.co/GPtkjY1/60889-200-29x29.png" alt="googleot" width="20" height="20"> &nbsp; Requirements &nbsp; <img src="https://i.ibb.co/GPtkjY1/60889-200-29x29.png" alt="googleot" width="20" height="20"> </p>
 
 Operating System:
-* ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png)
+* ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) *(Requires [Brew](https://brew.sh/)*
 * ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png)
 
 Packages:
-* *For Mac, It Requires [Brew](https://brew.sh/)*
 * [googler](https://www.aircrack-ng.org/doku.php?id=downloads)
 * python3
 * pip3
