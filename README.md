@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-# <p align="center"> <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> GoogleOT <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> </p>
+# <p align="center"> <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> &nbsp; GoogleOT &nbsp; <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> </p>
 
 <p align="center">  
 <a href="http://tinypic.com?ref=35nbqzl" target="_blank"><img src="http://i63.tinypic.com/35nbqzl.png" border="0" alt="Image and video hosting by TinyPic" width="450" height="250"></a>
@@ -11,6 +11,7 @@
 ## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About GoogleOT &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
+<img alt="main section" src="http://i63.tinypic.com/b5fno1.png" width="242" height="202"> <img alt="google section" src="http://i68.tinypic.com/jhshe8.png" width="242" height="202"> <img alt="gmail section" src="http://i68.tinypic.com/10h0fn9.png" width="242" height="202">
 
 Working on a server with no GUI? Don't want to use any browsers? Or you just enjoy the terminal too much? <br>
 Whatever your reason, GoogleOT has you covered!
@@ -33,6 +34,7 @@ Packages:
 Python Library (Pip3):
 * [os](https://docs.python.org/3/library/os.html)
 * [time](https://docs.python.org/3/library/time.html)
+* [platform](https://docs.python.org/3/library/platform.html)
 * [smtplib](https://docs.python.org/3/library/smtplib.html)
 * [stdiomask](https://pypi.org/project/stdiomask/)
 * [imaplib](https://docs.python.org/3/library/imaplib.html)
