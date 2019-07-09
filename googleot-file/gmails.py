@@ -6,12 +6,10 @@
 
 import sys
 import smtplib
-import stdiomask
 import os 
 import imaplib          
 import core
 import main
-import getpass
 
 #defines the server for gmail
 server = smtplib.SMTP('smtp.gmail.com', 587)
@@ -82,11 +80,12 @@ def login():
   try:
     gmail_sender = input("Please put your Gmail Username: ")
     gmail_sender = str(gmail_sender)
-    gmail_passwd = stdiomask.getpass("Please enter your password: ")
+    gmail_passwd = input(core.invis + "Please enter your password: ")
     gmail_passwd = str(gmail_passwd)
     if gmail_sender == "" or gmail_passwd == "":
-      print("\nSorry! You used an unknown character. Please type in your credentials correctly!")
-      getpass.getpass("Please press {ENTER} to continue... ")
+      print(core.r + "\nSorry! You used an unknown character. Please type in your credentials correctly!")
+      input(core.invis + "Please press {ENTER} to continue... ")
+      print(core.r + "")
       startup()
     authenticate(gmail_sender, gmail_passwd)
   except KeyboardInterrupt:
@@ -125,7 +124,7 @@ This is because google doesn't know if the location of the device accessing your
 It make take an hour for the change to kick-in, 
 so sit back, relax, and grab a coffee.""")
       print("\n(I personally found that this works best on chrome after signing into my gmail and then clicking on the link.)\n")
-      getpass.getpass("Please press {ENTER} to continue... ")
+      input(core.invis + "Please press {ENTER} to continue... ")
       clear()
       startup()
 
