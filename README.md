@@ -70,11 +70,13 @@ Most files go to `/usr/share/googleot-file`, `googleot.desktop` goes to `/usr/sh
 
 ------------------------------------------------------------------------
 
-## <p align="center"> <p align="center"> <img src="https://rentalcrates.com/wp-content/uploads/2017/08/pictures-icon-22-300x300.gif" alt="googleot" width="20" height="20"> &nbsp; Screenshots &nbsp; <img src="https://rentalcrates.com/wp-content/uploads/2017/08/pictures-icon-22-300x300.gif" alt="googleot" width="20" height="20"> </p>
+## <p align="center"> <p align="center"> <img src="https://images.vexels.com/media/users/3/158039/isolated/preview/05331045aee2a8e5142775d30365b88e-handshake-silhouette-icon-by-vexels.png" alt="googleot" width="20" height="20"> &nbsp; Contributing &nbsp; <img src="https://images.vexels.com/media/users/3/158039/isolated/preview/05331045aee2a8e5142775d30365b88e-handshake-silhouette-icon-by-vexels.png" alt="googleot" width="20" height="20"> </p>
 
-![google section](http://i63.tinypic.com/b5fno1.png)
-![google section](http://i68.tinypic.com/jhshe8.png)
-![gmail section](http://i68.tinypic.com/10h0fn9.png)
+Please read [CONTRIBUTING.md](https://github.com/Lin8x/skyBREAK/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+See also the list of contributors who participated in this project.
+
+Please support the [creators](http://www.reflectstudios.com/) of **Welcome to the Game II**!
 
 ------------------------------------------------------------------------
 
