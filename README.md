@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="29" height="29") &nbsp; About GoogleOT &nbsp; ![icon](https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png) </p>
+## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="29" height="29"> &nbsp; About GoogleOT &nbsp; ![icon](https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png) </p>
 
 ![googleterminal](http://i63.tinypic.com/b5fno1.png)
 
