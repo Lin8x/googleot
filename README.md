@@ -80,4 +80,14 @@ Most files go to `/usr/share/googleot-file`, `googleot.desktop` goes to `/usr/sh
 
 ## <p align="center"> ![handshake](https://i.ibb.co/r25C8p7/handshake-vector-20x29.png) &nbsp; Contibuting &nbsp; ![handshake](https://i.ibb.co/r25C8p7/handshake-vector-20x29.png) </p>
 
+Please read [CONTRIBUTING.md](https://github.com/Lin8x/googleot/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+See also the list of contributors who participated in this project.
+
+------------------------------------------------------------------------
+
+## <p align="center"> ![handshake](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png) &nbsp; License &nbsp; ![handshake](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png) </p>
+
+This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
+
 ------------------------------------------------------------------------
