@@ -77,7 +77,7 @@ def logo():
 def name():
   print("")
   print(red + """███████████""")
-  print(red + "██" + white + "███████" + red + "██" + yellow + "                     {} ██")
+  print(red + "██" + white + "███████" + red + "██" + yellow + "                     ██ ██")
   print(red + "█" + white + "███" + red + "   " + white + "███" + red + "█" + white + """                        ██""")
   print(red + "█" + white + "█  " + red + "      " + red + "█" + yellow + " ██████████ ████████ ██ ██")
   print(red + "█" + white + "██" + red + "  " + white + "██████" + red + "" + white + " ██████████ ███  ███ ██ ██")
