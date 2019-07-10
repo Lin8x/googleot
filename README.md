@@ -10,8 +10,8 @@
 
 ## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About GoogleOT &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
 
-![googleterminal](http://i63.tinypic.com/b5fno1.png)
-<p align="center"> <img alt="main section" src="http://i63.tinypic.com/b5fno1.png" width="30%" height="202"> <img alt="google section" src="http://i68.tinypic.com/jhshe8.png" width="30%" height="202"> <img alt="gmail section" src="http://i68.tinypic.com/10h0fn9.png" width="30%" height="202"> </p>
+![googleterminal](https://raw.githubusercontent.com/Lin8x/googleot/master/googleot-file/screenshots/googleot-screenshot-1.png)
+<p align="center"> <img alt="main section" src="https://raw.githubusercontent.com/Lin8x/googleot/master/googleot-file/screenshots/googleot-screenshot-1.png" width="30%" height="202"> <img alt="google section" src="https://raw.githubusercontent.com/Lin8x/googleot/master/googleot-file/screenshots/google-screenshot-2.png" width="30%" height="202"> <img alt="gmail section" src="https://raw.githubusercontent.com/Lin8x/googleot/master/googleot-file/screenshots/google-screenshots-3.png" width="30%" height="202"> </p>
 
 Working on a server with no GUI? Don't want to use any browsers? Or you just enjoy the terminal too much? <br>
 Whatever your reason, GoogleOT has you covered!
