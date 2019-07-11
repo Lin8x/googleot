@@ -24,7 +24,7 @@ The idea behind the program is that you can use google programs on the Unix Term
 
 Operating System:
 * ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) Mac OS ![mac logo](https://i.ibb.co/Qn2NXq9/apple.png) *(Requires [Brew](https://brew.sh/))*
-* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) <br> ***(As of testing, Kali Linux does not work with this tool!)*** *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))*
+* ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) Linux ![linux logo](https://i.ibb.co/CPq1pL9/linux.png) *(Debian Based: Preferably [Ubuntu](https://www.ubuntu.com/))* <br> ***(As of testing, Kali Linux does not work with this tool!)***
 
 Packages:
 * [googler](https://github.com/jarun/googler)
