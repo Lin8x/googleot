@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+echo [+] Installing latest version of googleot...
+cd /usr/var
+sudo git clone https://github.com/lin8x/googleot.git
