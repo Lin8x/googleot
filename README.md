@@ -3,7 +3,7 @@
 # <p align="center"> <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> &nbsp; GoogleOT &nbsp; <a href="http://tinypic.com?ref=30sf1p3" target="_blank"><img src="http://i65.tinypic.com/30sf1p3.jpg" border="0" alt="Image and video hosting by TinyPic" width="29" height="29"></a> </p>
 
 <p align="center">  
-<a href="http://tinypic.com?ref=35nbqzl" target="_blank"><img src="http://i63.tinypic.com/35nbqzl.png" border="0" alt="Image and video hosting by TinyPic" width="450" height="250"></a>
+<a href="https://raw.githubusercontent.com/Lin8x/googleot/master/googleot-file/googleotboard.png" target="_blank"><img src="http://i63.tinypic.com/35nbqzl.png" border="0" alt="googleotboard" width="450" height="250"></a>
 </p>
 
 ------------------------------------------------------------------------
