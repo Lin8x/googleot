@@ -76,8 +76,6 @@ Please read [CONTRIBUTING.md](https://github.com/Lin8x/skyBREAK/blob/master/CONT
 
 See also the list of contributors who participated in this project.
 
-Please support the [creators](http://www.reflectstudios.com/) of **Welcome to the Game II**!
-
 ------------------------------------------------------------------------
 
 ## <p align="center"> <img src="http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png" alt="googlelicenseicon" width="20" height="20"> &nbsp; License &nbsp; <img src="http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png" alt="googlelicenseicon" width="20" height="20"> </p>
